@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c805b3-0cd0-48e2-964f-5c6ca1e455d0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/todo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/0b39b620455506d8b214905d5a5f6fda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/0beb9164e0596bcb0ce85261e502a456" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/1bdaf3fe605ae5b76c5780afe5992f12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/75a71a6eaa469076c8f450036e91d274" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/779f013fa93f33ec49c765cd75ead66e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/a720b8e3ecf1167e768154ef4002b198" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/b06617b53c02eb52468a220e130fb1ee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/edae73bda884ac604c5f5e92252af80e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path/f24722b2113f6e7f2c689b6d43b27686" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/todos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -149,12 +133,12 @@
       <updated>1520430712717</updated>
       <workItem from="1520430714152" duration="2061000" />
       <workItem from="1522378170178" duration="6753000" />
-      <workItem from="1522391198351" duration="3412000" />
+      <workItem from="1522391198351" duration="3499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12226000" />
+    <option name="totallyTimeSpent" value="12313000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
